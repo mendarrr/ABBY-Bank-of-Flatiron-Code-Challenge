@@ -17,7 +17,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build -r https://mendarrr.github.io/ABBY-Phase-2-Code_Challenge_1"
+    "deploy": "gh-pages -d build -r https://mendarrr.github.io/ABBY-Phase-2-Code_Challenge_1/"
   },
   "eslintConfig": {
     "extends": [
@@ -37,7 +37,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://mendarrr.github.io/ABBY-Phase-2-Code_Challenge_1",
+  "homepage": "https://mendarrr.github.io/ABBY-Phase-2-Code_Challenge_1/",
   "devDependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
   }
