@@ -4,7 +4,6 @@
 [Abby Sarah](https://github.com/mendarr)
 
 ## DESCRIPTION
-#### Bank Transaction Tracker
 This is a react application which allows users to view and add bank transactions to a table. It also contains a search bar which allows a user to filter the transactions based on the given description.
 
 ## LIVE SITE
