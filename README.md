@@ -7,8 +7,7 @@
 This is a react application which allows users to view and add bank transactions to a table. It also contains a search bar which allows a user to filter the transactions based on the given description.
 
 ## LIVE SITE
-https://mendarrr.github.io/ABBY-Phase-2-Code_Challenge_1/
-
+https://mendarrr.github.io/ABBY-Bank-of-Flatiron-Code-Challenge/
 ## TECHNOLOGIES
 1. HTML
 2. React
