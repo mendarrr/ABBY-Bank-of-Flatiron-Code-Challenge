@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import "./Transaction.css";
-import { bankTransactions } from "./Data";
+
 
 const Transaction = () => {
   const [transactions, setTransactions] = useState(() => {
@@ -9,7 +9,6 @@ const Transaction = () => {
   });
   const [searchTerm, setSearchTerm] = useState("");
   const [newTransaction, setNewTransaction] = useState({
-    id: bankTransactions.length + 1,
     date: "",
     description: "",
     category: "",
@@ -32,8 +31,6 @@ const Transaction = () => {
     ) {
       setTransactions([...transactions, newTransaction]);
       setNewTransaction({
-        // Generae a new unique id for each transaction
-        id: bankTransactions.length + 1,
         date: "",
         description: "",
         category: "",
