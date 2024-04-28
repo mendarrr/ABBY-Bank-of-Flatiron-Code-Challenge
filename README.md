@@ -1,5 +1,4 @@
-# ABBY-Phase-2-Code_Challenge_1
-### The Royal Bank of Flatiron 
+# The Royal Bank of Flatiron
 
 ## AUTHOR
 [Abby Sarah](https://github.com/mendarr)
